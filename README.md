@@ -1,3 +1,12 @@
+## Instructions to run this exercise
+This exercise is to recreate 4 plots. The R files are named "plot1.R" to "plot4.R".
+It is assumed that the user has downloaded the zipped data file and saved into the local folder.
+The first file will unzip the data file and the other R files will read in the unzipped text file.
+
+To run each file just execute "source ("filename.R")" on the console.
+
+**Note: Original Readme text below this point**
+
 ## Introduction
 
 This assignment uses data from
